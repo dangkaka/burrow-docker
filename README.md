@@ -4,3 +4,13 @@ Dockerfile, docker image, sample configuration and sample docker-compose for [bu
 # Dockerfile
 * Apply [multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/)
 * [Docker image](https://hub.docker.com/r/dangnguyen/burrow-docker/)
+
+# Burrow
+What we need to read to understand burrow
+
+* https://github.com/linkedin/Burrow/wiki
+* https://github.com/linkedin/Burrow/wiki/Configuration
+* https://github.com/linkedin/Burrow/wiki/HTTP-Endpoint
+* https://github.com/linkedin/Burrow/wiki/Consumer-Lag-Evaluation-Rules
+
+Example [configuration](https://github.com/dangkaka/burrow-docker/blob/master/configs/burrow.toml)
