@@ -14,3 +14,6 @@ What we need to read to understand burrow
 * https://github.com/linkedin/Burrow/wiki/Consumer-Lag-Evaluation-Rules
 
 Example [configuration](https://github.com/dangkaka/burrow-docker/blob/master/configs/burrow.toml)
+
+# Reference
+* Docker-compose uses [Kafka cluster docker](https://github.com/wurstmeister/kafka-docker)
