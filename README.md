@@ -15,12 +15,12 @@ What we need to read to understand burrow
 
 Example [configuration](https://github.com/dangkaka/burrow-docker/blob/master/configs/burrow.toml)
 
-## Reference
-* Docker-compose uses [Kafka cluster docker](https://github.com/wurstmeister/kafka-docker)
-
 ## Quickstart
 * Start the application
   ```
   docker-compose up -d
   ```
 * localhost:8000 is ready to use
+
+### Reference
+* Docker-compose uses [Kafka cluster docker](https://github.com/wurstmeister/kafka-docker)
