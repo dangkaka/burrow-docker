@@ -45,8 +45,8 @@ group-whitelist=".*"
 class-name="http"
 url-open="https://hooks.slack.com/services/xxx"
 url-close="https://hooks.slack.com/services/xxx"
-template-open="default-slack-post.tmpl"
-template-close="default-slack-delete.tmpl"
+template-open="configs/default-slack-post.tmpl"
+template-close="configs/default-slack-delete.tmpl"
 send-close=true
 
 [httpserver.default]
