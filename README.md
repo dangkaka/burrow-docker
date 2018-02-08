@@ -1,2 +1,2 @@
 # burrow-docker
-Dockerfile, sample configration and docker image for [burrow](https://github.com/linkedin/Burrow)
+Dockerfile, docker image, sample configuration and sample docker-compose for [burrow](https://github.com/linkedin/Burrow)
