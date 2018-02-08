@@ -1,13 +1,6 @@
 # burrow-docker
 Dockerfile, docker image, sample configuration and sample docker-compose for [burrow](https://github.com/linkedin/Burrow)
 
-## Quickstart
-* Start the application
-  ```
-  docker-compose up -d
-  ```
-* localhost:8000 is ready to use
-
 ## Dockerfile
 * Apply [multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/)
 * [Docker image](https://hub.docker.com/r/dangnguyen/burrow-docker/)
@@ -24,3 +17,10 @@ Example [configuration](https://github.com/dangkaka/burrow-docker/blob/master/co
 
 ## Reference
 * Docker-compose uses [Kafka cluster docker](https://github.com/wurstmeister/kafka-docker)
+
+## Example quickstart
+* Start the application
+  ```
+  docker-compose up -d
+  ```
+* localhost:8000 is ready to use
