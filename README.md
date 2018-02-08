@@ -18,7 +18,7 @@ Example [configuration](https://github.com/dangkaka/burrow-docker/blob/master/co
 ## Reference
 * Docker-compose uses [Kafka cluster docker](https://github.com/wurstmeister/kafka-docker)
 
-## Example quickstart
+## Quickstart
 * Start the application
   ```
   docker-compose up -d
