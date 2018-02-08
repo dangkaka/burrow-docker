@@ -3,3 +3,4 @@ Dockerfile, docker image, sample configuration and sample docker-compose for [bu
 
 # Dockerfile
 * Apply [multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/)
+* [Docker image](https://hub.docker.com/r/dangnguyen/burrow-docker/)
