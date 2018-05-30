@@ -6,7 +6,7 @@ Dockerfile, docker image, sample configuration and sample docker-compose for [bu
 * [Docker image](https://hub.docker.com/r/dangnguyen/burrow-docker/)
 
 ## Burrow
-What we need to read to understand burrow
+Must-read list to understand burrow
 
 * https://github.com/linkedin/Burrow/wiki
 * https://github.com/linkedin/Burrow/wiki/Configuration
